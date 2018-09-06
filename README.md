@@ -1,5 +1,11 @@
 # sifteo-NaughtyDuck
+
 This is a sifteo cube game : Naughty Little Yellow Duck.
+
+关于 Sifteo Cube 简介：https://github.com/sifteo/thundercracker
+关于 Sifteo Cube 官方开发文档：https://sifteo.github.io/thundercracker/
+关于 Sifteo Cube 翻译的部分中文开发文档：http://sifteo.wujiayi.vip
+
 
 顽皮小黄鸭游戏在半年前写了一小部分，因为临近毕业，还有一些其他的原因，这个游戏并没有继续跟进下去。
 
