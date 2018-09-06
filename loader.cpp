@@ -1,3 +1,17 @@
+/***
+ * Copyright (C) WuJiaYi · 吴佳轶 
+ *
+ * 游戏名称：sifteo-NaughtyDuck || 顽皮小黄鸭
+ * 作者信息: 吴佳轶
+ *     Blog: www.wujiayi.vip 
+ *     邮箱: hello@wujiayi.vip 
+ * 
+ * 版本说明：
+ * 
+ *    V0.1  2018-01-25  22:22:00  搭建游戏框架
+ *    V0.2  2018-09-06  10:54:00  开源至 GitHub
+ */
+
 #include <sifteo.h>
 #include "loader.h"
 #include "assets.gen.h"

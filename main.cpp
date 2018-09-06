@@ -1,11 +1,15 @@
 /***
- * Copyright (C) Siftgame · 智能积木
+ * Copyright (C) WuJiaYi · 吴佳轶 
  *
- * 游戏名称：com.sifteo.NaughtyDuck || 顽皮小黄鸭
- * 作者信息: 吴佳轶 || hellowujiayi@gmail.com || www.wujiayi.vip 
+ * 游戏名称：sifteo-NaughtyDuck || 顽皮小黄鸭
+ * 作者信息: 吴佳轶
+ *     Blog: www.wujiayi.vip 
+ *     邮箱: hello@wujiayi.vip 
  * 
  * 版本说明：
- *    V0.1  2018-1-25  22:22:00  搭建游戏框架
+ * 
+ *    V0.1  2018-01-25  22:22:00  搭建游戏框架
+ *    V0.2  2018-09-06  10:54:00  开源至 GitHub
  */
 
 #include <sifteo.h>
@@ -143,6 +147,8 @@ private:
 
 
 void ChooseThePlot(unsigned int MenuIndex, unsigned int MenuNumber) {
+    LOG("test\n"); 
+    vid[0].bg0.image(vec(0,0), testBG);
 
 }
 
@@ -191,6 +197,7 @@ void TwoLevelMenu(unsigned index) {
 }
 
 void FirstLevelMenu() {
+    // 加载一级菜单
     loader.load(MenuGroup, gMainSlot, 0);  
     MenuBg();
 

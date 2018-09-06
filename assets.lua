@@ -58,6 +58,8 @@ Label10 = image{ "assets/FirstLevelMenu/header/10.png" }
 
 Menu1Group = group{ quality=9.8 } -- 组
 
+testBG = image{"assets/1.png", pinned = 1}
+
 Menu1BgTile = image{ "assets/TwoLevelMenu/bg.png", pinned=1 }
 Menu1StripeTile = image{ "assets/load/loadingbg.png", pinned=1 }
 Menu1menubg = image{ "assets/TwoLevelMenu/menubg.png", pinned=1 }

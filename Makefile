@@ -1,4 +1,4 @@
-APP = com.siftgame.naughty
+APP = SifteoNaughtyDuck
 
 include $(SDK_DIR)/Makefile.defs
 

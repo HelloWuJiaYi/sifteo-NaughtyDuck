@@ -29,7 +29,7 @@ This is a sifteo cube game : Naughty Little Yellow Duck.
 ![](https://wx2.sinaimg.cn/mw690/cf5b72a1ly1fuz3pr9r3tj2074074jsq.jpg)
 
 
-**对 sifteo-NaughtyDuck 项目有较大贡献的程序猿，将会免费送出一套 sifteo cube 游戏机（国内包邮哦亲）**
+**对 sifteo-NaughtyDuck 项目有较大贡献的程序媛 or 程序猿，将会免费送出一套 sifteo cube 游戏机（国内包邮哦亲）**
 
 ## 相关链接
 
